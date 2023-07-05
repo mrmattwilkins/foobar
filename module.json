@@ -2,8 +2,8 @@
   "id": "cool-adventure-module",
   "title": "Cool Adventure Module",
   "version": "1.0.0",
-  "download": "https://www.dropbox.com/s/40b6e1tdtg47b5y/cool-adventure-module.zip?dl=1",
-  "manifest": "https://www.dropbox.com/s/unkfz3ahdrnfc3n/module.json?dl=1",
+  "download": "https://github.com/mrmattwilkins/foobar/raw/main/cool-adventure-module.zip",
+  "manifest": "https://github.com/mrmattwilkins/foobar/raw/main/module.json",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
