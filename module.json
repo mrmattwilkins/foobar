@@ -1,0 +1,41 @@
+{
+  "id": "cool-adventure-module",
+  "title": "Cool Adventure Module",
+  "version": "1.0.0",
+  "download": "https://www.dropbox.com/s/40b6e1tdtg47b5y/cool-adventure-module.zip?dl=1",
+  "manifest": "https://www.dropbox.com/s/unkfz3ahdrnfc3n/module.json?dl=1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Foory",
+  "authors": [
+    {
+      "name": "Me",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "label": "ThePack",
+      "name": "thepack",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "path": "packs/thepack",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
